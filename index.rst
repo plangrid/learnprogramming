@@ -23,9 +23,9 @@ Lessons
 Resources
 ---------
 
+* `GitHub Repo <https://github.com/loupe/learnprogramming>`_
 * `Intro to Computer Science <https://github.com/loupe/learnprogramming/blob/master/resources/python_programming_intro_to_computer_science.pdf>`_
 * `Learn Python the Hard Way <http://learnpythonthehardway.org/book>`_
-
 
 
 Goals
