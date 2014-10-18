@@ -2,8 +2,11 @@ Learn Programning the PlanGrid Way
 ==================================
 
 When: Every Monday, 6-7 pm, couch area
+
 What you need: Face + laptop
+
 Need help? hipchat room "Learn Programming @ Plangrid" room. 
+
 Strategy: start with Python and concepts, move on from there
 
 
@@ -31,9 +34,12 @@ Technical Topics Covered
 ------------------------
 
  * Python
+ * Command Line Tools
  * Version Control (specifically, Git)
  * Computer Science fundamentals
- * 
+ * HTTP Fundamentals
+ * Logic
+ * Culture
 
 End Game
 --------

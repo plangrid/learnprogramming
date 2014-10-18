@@ -9,7 +9,7 @@ LPTHW: `Chapter 0<http://learnpythonthehardway.org/book/ex0.html>`
 Outline
 -------
 
- * Intro to the class
+* Intro to the class
    - Welcome
    - Expectations
      * Guiding vs teaching
@@ -30,7 +30,8 @@ Outline
      * Rely early and often on your new community. Programming is hard. Internalizing 
        frustration is a key mistake. Take a breath, grab a beer, and pair up.
      * Be aware of (and resist) bad developer culture
- * What does it all mean?
+   - Intro to materials
+* What does it all mean?
    - Programming, Developing, Computer Science - Oh my!
    - It's not just http... games, bioinformatics processing, number crunching, graphics,
      databases, site avaiablility, duct tape, algorithm development, networking, ai, 
@@ -41,14 +42,14 @@ Outline
      * The math issue addressed and the importance of basic logic
    - Generalization vs specialization
    - Hacker schools vs college degrees
- * What is Python?
+* What is Python?
    - What does it mean to be a programming language? 
    - Basic computing stack (whiteboard FUN!)
      * Breaking down to the hardware
      * Abstractions: languages building on eachother
        - JARGON: explaining binary
      * What we read, what the machine wants
- * Basic shell commands, opening the CLI
+* Basic shell commands, opening the CLI
    - basic shell navigation: cd, pwd, ls, mkdir 
    - calculator & the console
    - hello world
