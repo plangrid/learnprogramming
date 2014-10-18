@@ -1,4 +1,4 @@
 Learn Programning the PlanGrid Way
 ==================================
 
-Full docs at <>
+Docs at http://learn-programming-the-plangrid-way.readthedocs.org/en/latest/
