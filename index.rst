@@ -19,6 +19,7 @@ Lessons
    :maxdepth: 1
 
    day0
+   day1
 
 Resources
 ---------
