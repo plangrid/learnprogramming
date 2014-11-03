@@ -1,5 +1,5 @@
-Version Control, If statements, Loops
-=====================================
+Day 2: Guido, PEP8, If statements, Loops
+========================================
 
 "Code is read much more often than it is written" ~ Guido Von Rossum
 
