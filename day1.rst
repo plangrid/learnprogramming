@@ -12,11 +12,6 @@ Outline
  * Basic Boolean Logic - p & q
  * Variables
  * Problem: `calculating a mortgage payment <http://www.wikihow.com/Calculate-Mortgage-Payments>`_
- * Shell: rm, cp, mv
-
-If time:
-
- * if/else
 
  
 Homework
