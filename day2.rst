@@ -17,11 +17,6 @@ Outline
  * input
  * for, while, break, continue
  * pep8, flaking, linting - Oh my!
- * BASIC intro to pip and package management
-
-If time:
- * Shell: pipe, grep, cat, tail, man
- * Intro to version control
 
 
 Homework
@@ -31,7 +26,6 @@ Homework
  * Read from Zelle: 2.5 - 2.7, exercises 5-10
  * Dive into python: `Formatting strings <http://www.diveintopython.net/native_data_types/formatting_strings.html>`_
  * Hook up `Sublime <https://github.com/SublimeLinter/SublimeLinter-pyflakes>`_ (or whatever) with pyflakes, pylint
- * Shell: pipe, grep, cat, tail, man `http://cli.learncodethehardway.org/book/`
  * Ask eleddy for access to a file. Make comments on style (pep8) in github. 
    Open an issue, and assign the fixes to a fellow classmate. Next week we learn about
    version control and how to fix them.
