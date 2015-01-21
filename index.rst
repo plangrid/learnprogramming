@@ -34,9 +34,12 @@ Resources
 Goals
 -----
 
-* Introduce you to basic programming concepts and jargon (push back on bugs/fixes more often with better vocabulary)
-* Give you some basic hacking tools for work and home (automate simple tasks that make your day redundant)
-* Learn the basics of web APIs and how to wrangle them to your pleasure (bugsnag not reporting what you want? make it your servant)
+* Introduce you to basic programming concepts and jargon (push 
+  back on bugs/fixes more often with better vocabulary)
+* Give you some basic hacking tools for work and home (automate 
+  simple tasks that make your day redundant)
+* Learn the basics of web APIs and how to wrangle them to your 
+  pleasure (bugsnag not reporting what you want? make it your servant)
 * Have fun and potentially discover a new passion (w00t!)
 
 
@@ -54,11 +57,13 @@ Technical Topics Covered
 End Game
 --------
 
-We will do a lot of coding, but we will work towards the following tasks:
+We will do a lot of coding, but we will work towards the following 
+tasks:
 
 * Hack on PGbot
 * Parse and compute CSVs
-* Connect to APIs, such as bugsnag, and make sense of what comes back
+* Connect to APIs, such as bugsnag, and make sense of what 
+  comes back
 
 
 Indices and tables
